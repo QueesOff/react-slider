@@ -1,5 +1,4 @@
-# react-projects-7-slider
+# React Slider
 
-#### IN ACTION
 
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+![alt text](public/img.png)
